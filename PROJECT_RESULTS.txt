@@ -1,0 +1,17 @@
+GROUP 4 - MODULE IV: DISCRETE PROBABILITY DISTRIBUTIONS
+Application of Binomial and Poisson Distributions in Hotel Booking Analysis
+
+Total bookings: 87396
+Cancelled bookings: 24025
+Not cancelled bookings: 63371
+Cancellation probability p: 0.274898
+No-cancellation probability q: 0.725102
+Binomial n: 20
+P(X=5): 0.19601442
+Binomial mean: 5.497963
+Binomial variance: 3.986583
+Poisson lambda: 110.209332
+Poisson mean: 110.209332
+Poisson variance: 110.209332
+Comparison: n=100, p=0.05, lambda=np=5.0
+Binomial MGF: M_X(t) = (q + p*e^t)^n

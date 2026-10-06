@@ -1,0 +1,31 @@
+# Hotel Booking Probability Dashboard
+
+## Files
+- app.py
+- hotel_bookings_cleaned.csv
+- PROJECT_RESULTS.txt
+- README.txt
+- requirements.txt
+
+
+## Run locally
+
+1. Open Command Prompt / Terminal in this folder.
+2. Install packages:
+
+pip install -r requirements.txt
+
+3. Start the dashboard:
+
+streamlit run app.py
+
+4. A browser window will open with the dashboard.
+
+## Main sections
+- Overview
+- Binomial Distribution
+- Poisson Distribution
+- Moment Generating Function (MGF)
+- Binomial vs Poisson
+
+You can change the Binomial n, selected cancellation count, and comparison values from the sidebar.
